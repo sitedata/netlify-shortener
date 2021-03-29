@@ -27,7 +27,7 @@
   "dependencies": {
     "@babel/runtime": "^7.9.2",
     "clipboardy": "^2.3.0",
-    "read-pkg-up": "^7.0.1"
+    "read-pkg-up": "^8.0.0"
   },
   "devDependencies": {
     "kcd-scripts": "^5.6.0"
